@@ -6,7 +6,6 @@ The roadmap is where we provide information on what we aim to improve in WNFS, w
 
 If you want to reach out to us about this roadmap, [creating a discussion](https://github.com/wnfs-wg/roadmap/discussions/new) is a great place to start.
 
-
 ## What is WNFS?
 
 We've started to build the WebNative File System because:
@@ -28,4 +27,5 @@ Find out more about WNFS at:
 
 ## How do I contribute?
 
-Reach out to us! [Create a discussion](https://github.com/wnfs-wg/roadmap/discussions/new) in this repository.
+Issue creation is currently locked. If you want the WNFS working group to prioritize something reach out to us!
+The best way is to [create a discussion](https://github.com/wnfs-wg/roadmap/discussions/new) in this repository.
