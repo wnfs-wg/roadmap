@@ -1,3 +1,7 @@
+<a href="https://github.com/wnfs-wg" target="_blank">
+  <img src="https://raw.githubusercontent.com/wnfs-wg/rs-wnfs/main/assets/logo.png" alt="WNFS Logo" width="200" height="200"></img>
+</a>
+
 # The WNFS Roadmap
 
 View the public WNFS roadmap here: https://github.com/orgs/wnfs-wg/projects/1/views/1
