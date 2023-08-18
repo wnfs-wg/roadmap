@@ -33,3 +33,6 @@ Find out more about WNFS at:
 
 Issue creation is currently locked. If you want the WNFS working group to prioritize something reach out to us!
 The best way is to [create a discussion](https://github.com/wnfs-wg/roadmap/discussions/new) in this repository.
+
+## External Roadmap
+- [Starmap](https://starmap.site/roadmap/github.com/fission-codes/Fission-Starmap/issues/2#view=simple)
